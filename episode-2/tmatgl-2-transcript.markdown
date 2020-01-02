@@ -1,5 +1,7 @@
+Do you use these transcripts? If so, please let us know. We aren't sure how much effort to put in them and we welcome your feedback! - Stuart
+
 Stuart Carlton 0:07  
-Welcome to Episode Two of teach me about the Great Lakes a podcast in which I A Great Lakes novice get people who are smarter than I am to teach me all about the Great Lakes. My name is Stuart Carlton and I work with Illinois, Indiana secret and with me as always is Illinois, Indiana secrets research coordinator, Carolyn Foley. Carolyn, how are you?
+Welcome to Episode Two of Teach Me About the Great Lakes a podcast in which I A Great Lakes novice get people who are smarter than I am to teach me all about the Great Lakes. My name is Stuart Carlton and I work with Illinois, Indiana secret and with me as always is Illinois, Indiana secrets research coordinator, Carolyn Foley. Carolyn, how are you?
   
 Carolyn Foley 0:27  
 I'm doing well. Thanks, Stuart. How are you doing?
