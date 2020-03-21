@@ -1,0 +1,226 @@
+Stuart Carlton 0:00
+Hey there listeners. This is Stuart Carlton host of teach me about the Great Lakes and assistant director of Illinois, Indiana. See grant. And this is my typical pre pre show disclaimer. This is the part of the show. It happens every couple of episodes in which I say all of the things that I meant to say during the show, but even under the best of circumstances, I'm not exactly a shining tower of competence. And this is not the best of circumstances right now. And so, sometimes I forget. And so here's I think what is an important little pre show message. I'm recording this now from the home office as we're practicing social distancing at Sea Grant to try to help prevent the spread of the corona virus reminds me a lot. I grew up in New Orleans and spent a lot of my life in the Gulf south and dodged a lot of hurricanes. And reminds me, we're down there we call it hunkering down. And so right here, we're hunkered down. But this is like a long term version of that and it's a lot of the same feelings and these feelings are hard, not gonna lie. And then it's also hard because much like with hurricanes, you see people practicing, you know, different levels of concern, I guess, I would say, you know, some people on spring break, partying at the beach, other people are really worried. And you know, that's that's hard to deal with mentally. We thought there was a store here that teach me about the Great Lakes team thought there was a story about going outside and how important it is but how to do so safely. And we weren't sure we wanted to consult an expert. And that's why we got today's guest, who's an epidemiologist, he's the head of epidemiology, excuse me, at the School of Public Health at the University of Illinois, Chicago. And so we're going to talk a lot in this show about going outside and when it's healthy, when it's safe, under what circumstances it's healthy and safe. I want to be clear, though, if you know if you're in a place where you're ordered to stay inside, then you should do that right now. You should follow the local guidance, but not everybody is at all times and even if you're supposed to stay at or near home, there may still be chances to get outside. And so we wanted to talk that through and think about that. So of course listen to local authorities, but within the confines or within the constraints, rather that we have on us What can we do? That's kind of what we want to talk about today. But this is kind of a different Right, the normal one of the fundamental principles of this show, really one of the fundamental principles of my life, is that we can use silliness and fun to enrich both our learning and our lived experience. And I still think this is true. But we're recording this episode right now. It's a time of a lot of uncertainty, uncertainty in terms of what the pandemic is going to look like, by the time this show gets released, you know, what is the world gonna look like? I don't know, if you're listening to the show in two weeks. It's not clear what's going to happen. And so we wanted to be cautious, right? I mean, for example, I'm recording this disclaimer on a Friday afternoon. And as I'm doing it, the state of Illinois just released a stay at home order matching several sites out there in our listening area. And so, all of which is to say this episode is gonna be a little bit light on shenanigans, right? It didn't seem appropriate to have goofy theme music. You know, my typical moronic interludes or goofy questions about sandwiches, that's just isn't the episode for that. If you missed that stuff, I know I do. Don't worry, we'll be back. In fact, right now we're planning what I'll call a shenanigan head. Episode for a couple weeks couple months from now. Stay tuned to teach me about the Great Lakes calm for that. But in the meantime, this is a show we have here and thanks for listening. And here it is. Hey everybody, welcome to teach me about the Great Lakes a show in which I'm supposed to get people who are smarter and harder working than I am to teach me all about the Great Lakes. This time though, it's a special bonus episode, in which I get somebody who's smarter and harder working than I am to teach me all about Corona virus and kovat 19. I'm joined as always by hope charters, Illinois, Indiana. See grant communication coordinator hope How are you doing?
+
+Hope 3:45
+I am trying not to go crazy sitting all alone at home. Just like
+
+Stuart Carlton 3:52
+I'm not one week into four days. Let's be clear in the working from home and home office and I'm lucky I have a whole room set aside that we can use And, you know, my wife is taking care of the kids, but it's it's a lot. It is a lot. And that's actually part of why we're doing today's episode. So we thought, you know, with people being asked or required to stay at home, it's really easy to go stir crazy. And it's really hard on your mental and your physical health. And it's one thing that people turn to a lot is exercise, right? And trying to go outside being the outdoors, whether it's hiking, or boating or canoeing, or just taking a walk or a bike ride or something like that. But But is that even safe right now? Is that something we can do? How do we balance all of these things? And I think these are important questions to talk about, but I don't have the context answer. And so we invited Dr. Ron Herschelle, who's the Director of the Division of Epidemiology and Biostatistics at the University of Illinois, Chicago, their school of public health and we thought We'd get him to ask us about some of this and so, shall we bring him on hope?
+
+Hope 5:04
+Yes, I'm so excited to hear more about coronavirus. I'm actually excited. I don't know if I sounded excited. But I am legitimately excited.
+
+Stuart Carlton 5:16
+Well, let's just bring him on and we'll go from there. And we're joined today by Dr. Ron Herschelle, the Director of the Division of Epidemiology and Biostatistics at the University of Illinois Chicago School of Public Health. Dr. Herschelle, thank you so much for joining us. My pleasure.
+
+Ron Hershow 5:41
+Thanks for the invitation.
+
+Stuart Carlton 5:42
+You're welcome. This is a really crazy time right? Now, our normal circumstances for recording the show. So what is life like right now for someone who works as an epidemiology an epidemiologist who works in epidemiology?
+
+Ron Hershow 5:57
+Well, it's really hectic come in I'm an epidemiologist who works at at a school of public health and now our students, you know, are obtaining Well, they're actually now on spring break, but soon they'll be obtaining their education through surely e learning strategies, which begs the question of how do we transition to those key learning strategies and grappling with those issues, at the same time that I'm trying to grapple with this cobit 19 situation. And we, as a school of public health have asked yourselves, what are the best ways we can help in the middle of this health crisis. And we're doing a variety of things. We've put together a list of interested students and faculty, sort of a giganto spreadsheet with this list of names and contact information and areas of expertise. And then we're going getting a lot of requests from entities like local health departments, the Illinois Department of Health, Chicago Department of Public Health, and we have a system, sort of a ticketing system where people are, are sent requests from different departments. And they have to declare very quickly whether they can take this on, and whether they can turn it on, turn it around rather very quickly,
+
+Stuart Carlton 7:23
+sort of these requests of like, you know, they need help making decisions on whether to stay open or what kind of requests are people sending you?
+
+Ron Hershow 7:32
+Not so much like that, like I was up late last night, for example, because somebody at Illinois Department of Public Health asked me to develop or asked us to develop a study designed to study child transmission of cobit 19. And so I was sort of up late, researching that and developing a design that might work, cost effective practical design and managed to get it mailed. By about 1230 in the morning. So that's that's sort of a good example I think of an ask. And sometimes we get sent papers by the health department saying, I don't have time to read this. Can you read it and send me a pithy bulleted summary of what it says? Those kinds of things. Our students are being asked to do literature reviews to do outreach in our communities, to various vulnerable populations. Those are just a smattering of the kinds of things that are coming across our
+
+Stuart Carlton 8:36
+desks. Holy cow, so it's really like an all hands on deck emergency epidemiology situation.
+
+Ron Hershow 8:42
+It is it's pretty much non stop and you know, I wake up in the morning, just at my keyboard all day. I am working at home now. So I'm don't really have a home office. So if you background if you're seeing my MA You'll see this is my daughter's bedroom, my old bedroom, she's now I'm now an empty nester, but her old soccer jerseys hanging from the wall. And I don't know, it's just not a bad place to work.
+
+Unknown 9:14
+tailor made for the job.
+
+Stuart Carlton 9:17
+So today we want to talk so uh, you know, I work for Sea Grant, and we're out of Purdue and every coastal in Great Lakes State has a secret program. And a lot of our stakeholders and all the listeners to this show are really into like outdoors and you know, derive a lot of benefit from going outdoors. But this is a tricky time for that because of social distancing, and things like that. So I'd like to talk about the trade offs, even trade offs is the right way to think about it. But first, I want to I need some definitions to make sure we're all we're all on the same page. So right now, we're saying that we're supposed to do social distancing, what what is social distancing? Exactly?
+
+Ron Hershow 9:53
+Social distancing is basically avoiding crowded places. Sometimes, social distancing has been imposed on us, in many jersey jurisdictions that has think of bar closings, restaurant closings. Like I said, my school is closed, as are many other universities and graduate programs. In Chicago, our K through 12, schools are closed as well. And so that, you know, means many of us are at home and living our lives sort of sequestered in our homes. And you know, some places have even gone to full lockdown. I think that may be coming to jurisdictions, but it's currently in place in the Bay Area in California. But many of us are sort of already locked down. In a sense that we're, we're like I said, we really are hunkering down at home and we do go out and Do things that are essential like food shopping, going to pharmacies, going to bank, sometimes they stay open. But whenever possible, we have canceled big gatherings. And in fact, many people have gone one step further and even canceled small gatherings. I think, in making those kinds of decisions, you know, I think it's particularly important that we remain aware that this epidemic is particularly tough on the elderly. So if gatherings include elderly people, it might be best to put those off. Now, having said all that, it's very isolating. It's It's It's sort of a sort of strange to me that at the time that we're all pulling together to combat this virus, that we're being told to distance ourselves from each other. That seems to be a sort of an irony in that That conception, but it is something that I see as a civic responsibility to adhere to these rules. And I think of particular importance is the rule about not going out if you have a respiratory infection. And I think it depends on whether you're a half empty or half full person, whether you think things are working well, whether people aren't hearing here in Chicago, we, over the recent weekend, there was a lot of revelry over the St. Patrick's Day celebrations and so forth. And I think that no small part, entered governor Pritzker, his decision to close bars and restaurants when he saw that happening. So
+
+Hope 12:50
+yeah, I think the rest of us are were shocked to see that so many people were celebrating and out at the bars. Also, it doesn't make any sense to me.
+
+Ron Hershow 12:57
+Yeah, I mean, I guess it's not Surprising I mean, you tell college kids to go out of out of college and you shouldn't be that surprised that they can repeat, but that's true. But, you know, we have to change our sensibility or our ways of approaching everyday life for the next few weeks, months. And I think the greater success we have in doing that, the better successful habit, decreasing the impact of this virus and keeping our health systems open and not overwhelmed.
+
+Stuart Carlton 13:36
+So, when we think about social distancing, and staying away, I've heard this guideline of like six feet, is that kind of rough guideline for how far you should be from other people? Is that is that kind of roughly right, or is there some other guideline that we should?
+
+Ron Hershow 13:51
+It's roughly right? There hasn't been some recent data that suggests that this virus may not fully observe the six foot rule that, that it can be truly what we call Paris be aerosolized and that there's some evidence to support that it can travel further than six feet. But in general, we think that this is an infection that's spread by what we call respiratory droplets, the kinds of things that emanate from, you know, from your body when you cough or vociferous Lee or even unroasted, roughly. And, or certainly when you laugh, you expel air too. And the thing about these droplets is they have a coating of moisture around them, that makes them heavier than air. So within six feet, they sink to the ground and and once they're on the ground, they really can hurt hurt you. So that's where the six foot rule comes from. And so, yeah, I think that's that's part of this. I would say That when you're outside, and you said, many of your viewers are into outdoor activities, that that this virus becomes far less transmissible than it does in in sort of built environments or closed ventilation systems. So, walking, once, if you were to cough outside, it quickly gets diluted by all that wonderful air in the forest that you're walking through. So, I think I guess in my mind that one of the safest and healthiest things people can do now is go out and take a hike or a walk or, or even a bike ride or run. I'm a runner. So that's, that's, if I had to give that up and put up with with what's going on. Right.
+
+Stuart Carlton 15:50
+That's what I'm really concerned about. Right? That's just the exact concern is that Yeah, we're putting somebody through something that's really stressful and really, mentally challenging and at the same time, they're having to take away the things that they use to cope, whether it's super healthy things like exercising or things of more questionable health, like going to bars with friends, which is probably healthy for a couple hours and then gets less Oh. But But my work, you know, it is a concern. But so. So you're saying that overall, going outside is probably well, when you're outside the transmission risk is lessened than it is when you're an inside with shared air environments and recirculating ACS and that kind of stuff.
+
+Ron Hershow 16:32
+Yeah, I would say so. I mean, if you obey the rule of not doing those activities, when you're feeling sick, and couple that with that wonderful dilutional effect of being out in the open air dilution means if you were to cough that that those droplets are quickly diluted by all the air that's streaming by while you're running. You know, I were walking or whatever. So I I you know, I was Would not lump the prohibition about bars and with, with anything having to do with outdoor activities. To me outdoor activities are one of the safest things that we can do in the era of cobit 19
+
+Unknown 17:15
+that makes me really happy to hear
+
+Hope 17:16
+things when lots of people start doing that because like my husband and I went for a walk at our local state park the other night and we did pass a few people on the path and paths aren't very, you know, wide and so that we did not adhere to the six foot distance rule. But then what happens when people get so bored staying at home that even if they're not outdoors, people normally they start going outdoors and so that everybody is at the parks? Is that safe then?
+
+Ron Hershow 17:47
+Yeah, though, Johnny come lately to the exercise. Well, no, I you know, I, I think you got to live your life to some extent and you got to stay healthy and So I, you know, in, in my mind it would be wrongheaded and sort of crazy to constrain your activities out door right now, because of this situation. Like I said, if you're sick, you shouldn't be with other people, you should be hunkered down at home. But if you feeling well, then I would say, you know, go for it. Now, does that mean that you won't pass the occasional person who seems to have a red nose and a drippy nose? And, you know, I think that's wrong. You know, if you're, if you're, even if you have a mild cold, you should not be out right now. That messaging has to get out there. You really have to remove yourself from from contact. But if you're feeling well, and you're out in the open air, I would not drive yourself crazy by jumping into a bush every time you see somebody with you I really strongly argue against that.
+
+Stuart Carlton 19:06
+So what about I'm this makes me so happy to hear, especially because I have three kids at home. And if we don't get outside soon, something's gonna give. And so with, um, what about like stopping off, like we want to go fishing? Or you know, I need a new pair of boots, so I'm going to go to Rei or whatever. Like, should we hold off on those activities? For now? Is it safe to like, pop into the bait store and pop out? or What is your opinion on that?
+
+Ron Hershow 19:30
+Well, I think when you pop into the bait store, you know, try to go in into the less busy time if such a thing exists at Bates stores, I think right maybe breaking down the doors to get in to those worms and everything. But I would say you know, try to time yourself so that you're not going to very crowded environments. So that might be prudent. I also think that hand washing really really works. And when you come out of a place like that, where you perhaps in touch cans or environmental surfaces, I think we're about to trustee PRL and wash your hands. I think everyone should have PRL. I realized that that's
+
+Stuart Carlton 20:19
+easier said than done
+
+Ron Hershow 20:21
+live given that it's hard to come by these days, but if you can find it
+
+Hope 20:26
+even to the grocery store
+
+Ron Hershow 20:30
+they have and, and I hear you, I know what you're saying. But you know, I think you know, and if you're fishing with somebody in a canoe, it's hard to maintain maybe six feet i've you know, done a canoe I guess. But um, but you know, try whenever possible to be sensible about that kind of thing. But again, I wouldn't drive myself crazy over it at this point. If you're out in the open air, and you're not coughing and you're not sick. You don't have a call and I think, you know, to go into some draconian social shutdown at this point, in time will, will do more harm than good.
+
+Hope 21:16
+Yeah. So should these mostly be solo outdoor activities then? Or whoever you're quarantining yourself with? Just that? Where can you meet up with people?
+
+Ron Hershow 21:27
+I think you can meet up with running groups and maybe you want to not huddle around maybe like you might have previously you know, and, you know, I don't think this is the time to pass the canteen over to your buddy and have him take a swig and then you take a swig you know, individualizing that kind of equipment and, and stuff makes sense at this point in time. I basically I guess what I'm arguing for is common sense. Yeah. You know, and, and I, I think everyone is smart enough to figure that out with me without me spouting off.
+
+Hope 22:12
+People, though, who still don't understand, I guess the severity of the situation, and are kind of making fun of people, especially, like, just people who are, you know, self quarantining, and before work closed and everything, we had somebody come up to us and say, You know what, I just don't think this is right. Like we should still be able to go everywhere. So I think that common sense makes sense. But like a lot of people might not have common sense.
+
+Ron Hershow 22:42
+No, it is very hard to change the ethos of the American people or any people for that matter, since this is a global global issue. I think, where we all have to be sort of in the business of consciousness about this And, you know, I, I'm like to think that I'm an optimistic person. And I am optimistic even about this situation. But I, you know, I try to be realistic as well, in my approach to it and what I recommend for others. So, you know, I think you got to call bs when you see it, you know, like, I've, I've got, you know, I've talked to people that I see who have those cold symptoms, and I'm saying, you know, we really you should be at home, you know, we have an epidemic here and probably your cold is not caused by Cova 19. But there's, there's, we're in the point now in this epidemic, where it might be, you know, and, and you're putting potentially people at risk, and I'm glad you feel that your illness is mild enough to walk around with it, but, you know, that same virus that's giving you this to these might might have a much more adverse effect on on an elderly person. So, you know, it's it's not right for you to be on the L and it's not right for you to, you know, to be traveling around. So,
+
+Unknown 24:14
+yeah, how does how does this end? Like that's what I keep coming back to is how does how does in your opinion like how does this end?
+
+Unknown 24:22
+Well
+
+Ron Hershow 24:25
+it ends happily I hope. And I think it ends like most epidemics and because the virus is unable to find susceptible people that spread through that can be because we are obeying the social distancing rules and, and people who are infected can't find somebody to pass it to easily that they are obeying these rules and staying at home when they're sick. And, of course, we you know, nothing is perfect. We're hearing that even at times As asymptomatic or very mildly symptomatic people can pass the infection on. I would argue that everyone with even mild symptoms, as I've said before, I should stay at home. But you can very well blame the asymptomatic those without any symptoms at all for going on. So I heard somebody I think at the CDC say we were at the point in this epidemic now where we have to think that almost anyone we passed on the street might be carrying kovat 19. And that's the reason for avoiding crowded places and trying to maintain these distances. Again, you know, is it all perfect? No. And, and I think you can, you can try to adhere to these so perfectly that it becomes almost to a fault. Yeah. And I'm arguing for a reason to approach. The other thing about it is if you are that draconian in it, then then you're gonna burn out On that it's unsustainable. This is going to be a bit of a marathon. It's not a it's not something we, you know, that we can do for three days and then forget about it. So pace yourself a little right.
+
+Unknown 26:12
+That's my big concern. I mean, this, I think there's so much we don't know in terms of data or whatever. But this could be months and months and months, potentially, really, really long. And and so we got to find ways to keep our physical and mental health and that's, that's why we're so interested, I think in the outdoors.
+
+Ron Hershow 26:30
+Yeah, well, yeah, I totally agree. And well, yeah, I guess you're repeating myself. Yeah.
+
+Unknown 26:38
+So is there a well, we'll wrap up with two questions, I think and we appreciate your time. I know this is a very crazy time for you. But so we talked about how kind of bleak it was. Is there anything in this situation that does give you hope that you've seen? Um,
+
+Ron Hershow 26:51
+yeah, like I said, I am an optimistic person. And what gives me hope is the quality of leadership that we're seeing at the health department level. And even at the government level, all these bills that are being passed to sort of provide relief for workers who have to be home quarantining for a period of 14 days, all these things that are being done to enable society to weather this, this challenge, I think are heartening. I live in, you know, Illinois and and, you know, in Chicago and Illinois Department of Public Health Chicago and Department of Public Health and Cook County Department of Public Health. I'm led by the leadership that's being exhibited by our commissioners of health and, and the leadership that's being shown by Governor Pritzker and, and Mayor Lightfoot in Chicago and you know, so that that definitely gives me hope and and I am Also take some solace in the idea, or in the observation that people are really being pretty kind about this. Maybe you'll run into some people who were outraged at being constrained by these rules, these new rules that we're living under. But for the most part, people are really helping each other. And I think the one point I would make is that in, we really have to fight against social isolation in a sensible way. And I think, one happy coincidence and kovat 19 in 2020, is that we do have technological means of staying in touch. Yeah. So if you can't go to your elderly parents and visit, you can maybe Skype with them, or certainly call them or check in with them frequently and and I think that's what I find. myself doing is this morning my daughter and her husband sent an invitation to a virtual get together. You know, this evening we're gonna all join together online and you know just talk to each other. It's is it as nice as being together? No. But it's pretty nice. We have made me proud that my daughter and my great son in law came up with that idea.
+
+Hope 29:30
+Wonderful. It's awesome. One of my best friends her daughter is about to turn nine instead of having a normal ninth birthday party. We're gonna do a virtual like Google hangout and everybody is going to hop on and say happy birthday to her. Well,
+
+Ron Hershow 29:42
+bravo for you or Bravo. So you know that that's awesome. I mean, I think that's what gives me hope in this situation. And, and, you know, I, I think we have to see it as something we're all in together. And that these rules are not being imposed on us. They're, they're something that we must engage with, because we care about each other.
+
+Unknown 30:11
+I can't think of a better place to end than right there. So Dr. Ron Herschelle from the University of Illinois Chicago School of Public Health. Thank you so much for appearing on teach me about the Great Lakes.
+
+Ron Hershow 30:22
+Yeah. And I hope I see you out there on the running paths, you know, definitely way Thank you.
+
+Stuart Carlton 30:41
+Well, thanks a lot to Ron for that interview. And I, you know, I found it to be somewhat hopeful, I think, is that fair to say?
+
+Hope 30:49
+Yeah, I was expecting him to say, maybe don't go out. You know, don't go beyond your neighborhood. Just spread it beyond like its boundaries. You But he was very pro outdoorsy stuff. So that was nice.
+
+Stuart Carlton 31:05
+Yeah, I agree. And, you know, back in grad school I haven't really studied this but a lot of the sort of foundational work in my in my discipline is about, you know, the mental and physical health benefits of going outside. And so I was really glad to hear that he thinks that I think the key messages were as long as you were feeling well, it's pretty safe to go outside as long as everybody you're with is feeling well. And, you know, you might want to keep some distance between you and your companions. But but that overall, it was safer than being inside which I think is was good to hear.
+
+Hope 31:36
+Yeah. And Spring is coming and the sun is shining, and the sun helps all my sadness go. That's really nice to be able to get outside.
+
+Stuart Carlton 31:46
+Yeah, tourists. Normally I'd ask you right now what we learned about the Great Lakes, but you know what, this episode I don't know, some of our usual stick isn't quite there. But is there something you're taking away from today that you think is good
+
+Hope 32:01
+Yeah, go enjoy the Great Lakes. go fishing. go hiking go running on Lake Shore. You do you?
+
+Stuart Carlton 32:08
+Yeah, I think I like it. I like that a lot. Yeah. And so if you're out there, so we're recording this on Friday afternoon, the 20th. And we hope to get it out, I don't know, Monday by Monday. the kind of work that I can do right now it's a little bit limited both because I'm not on campus. And because you're, you know, my brain is a little bit fried with all this stuff. So, my guess is we'll be releasing a few more episodes of this monthly podcast in March. So please go ahead and tune in you can view the shownotes for this page at teach me about the Great Lakes slash will go five, teach me about the great lakes.com slash five and you'll see the show notes with links to more information. You know, stay subscribed to the feed or follow us on social media posts. The main feed I always forget.
+
+Hope 32:55
+I see. grant.org is our website and then our social media handlers are IN as an Illinois, Indiana, see grant,
+
+Stuart Carlton 33:04
+there we go. So go to IO n secret on Twitter or probably Facebook. You can follow the show or Instagram, you can go to our Insta. And
+
+Unknown 33:14
+you can tell that you're old by the way you say,
+
+Stuart Carlton 33:19
+boom, boost us on Insta at I Li NC. And you can also go to the show we only have a Twitter on the show. It's teach greatly. So go there. Till then everybody. Let's be good to each other. Let's be safe. Let's be careful. And let's get through this together.
+
+Hope 33:34
+Yeah, stay safe. Wash your hands.
+
+Stuart Carlton 33:42
+One last question I wanted to ask from a friend of mine, but it wasn't appropriate for the show. They'd like to host litter cleanups, like isolated litter cleanups, like everybody pick up a bag. Is there a reason to be worried about like litter on the side of the road in terms of transmitting the virus?
+
+Ron Hershow 33:55
+No, I don't think so. I think there's others stuffing?
+
+Unknown 34:01
+Well, right, right, right. Right. Right.
+
+Ron Hershow 34:03
+That might that might run run you afoul of some enteric infections and things like that. But, um, no, I can't think of why that should be curtailed. You know, again, you should wash your hands. Yeah. Okay, great
+
+Unknown 34:15
+copy of that.
+
+Hope 34:16
+Since we're all stuck inside now, and a lot of people are watching way more movies and reading way more books than normal. What are your favorite movies and books?
+
+Ron Hershow 34:26
+One of you. I did read one book recently that I think is a masterpiece that I would like to recommend to readers. And it's, it's good because you know, one of the things that's driving me crazy is that base baseball won't be happening. And my beloved March Madness is not very mad this year at all. So this is, I guess you could call it a sports book, but like all great sports books. It's so much more than a sports book, and it's this book called bear town. Frederick Bachman, you might have heard of another book he wrote a man called over. And that was a movie as well. I just think this book is magnificent. It's a It's a story of a small town in Sweden with a whole social life and fabric of the of the town is built around their ice hockey team. Hmm.
+
+Hope 35:20
+Cool. Thanks for that. And if you're missing your Do you do brackets for March Madness, because if we're missing, we have one about plants and stuff. We're trying to teach people about native plants. And everybody gets to fill out a bracket and see which plants when
+
+Ron Hershow 35:39
+what how do you what criteria do you use to judge whether it's
+
+Hope 35:43
+all based on social media? So we're going to teach people about the two plants that are, you know, kind of competing against one another that day, and then whichever one gets the most likes or comments or whatever, I'm not sure exactly how it works, but it's all
+
+Ron Hershow 35:58
+based on people's votes. That sounds idle, I'm in. No, I'm really feeling. I've felt recently that I should increase my botany awareness. Because I read a book called overstory which, incidentally is another word that is so good. It's so good that book. And it's the overstory that it's referring to is the canopy of trees and it's about forests and, and, you know, before I read this book, I had this sort of negative opinion about tree huggers and all that and after reading this book, I'm become a full fledged tree hugger, you know, like, anyway, it's, it's this marvelous, marvelous book and I would also recommend it to to your readers, and it also teaches a lot about forests and how trees communicate with each other, as weird as that sounds, and And anyway, I just loved it. Another thing to maybe pick up.
+
+Stuart Carlton 37:05
+Yeah, there's a lot of people with a new interest in plants in Illinois, so maybe they should read it. Definitely. Great. A super well, this has been really good, thank you. We will get it. You know, usually my kids are fried by right now. So I probably won't get it edited until this evening and get it out. Either this weekend or on Monday. We'll, uh, I'll email you with a link to it. Is there is there any like links that you want us to put on websites, social media stuff or?
+
+Ron Hershow 37:36
+No, I you know, I think I'd refer your your listenership to, you know, get your information from reliable sources. Yeah, sure. I mean, local health department sources or when you hear Anthony falchi talk, perk your ears up.
+
+Unknown 37:51
+Yeah. Yeah, that sounds good. And then sometimes after the end credits, I put in little tidbits from like, like just this talking about these books and stuff. Like that, do you mind if I include some of that? You know, it'll be edited or whatever but but it is it was it was after we had sort of ended the interview. Would that be okay with you to include or not either as part that'd be awesome. And I i'm sorry i right offhand. I can't remember who wrote the overstory. But that's fine. I'll look it up on Amazon and then and then we'll put a link right there. Maybe Richard
+
+Ron Hershow 38:19
+powers anyway, you'll look it up. So okay. Yeah.
+
+Stuart Carlton 38:23
+Thank you so much, Ron. I appreciate it. I appreciate the hard work you're doing on behalf of everybody and I hope you get some sleep sometime.
+
+Ron Hershow 38:30
+Yeah, this has been a lot of fun. It's It was really one of the nice breaks I drank thank you for that. And you guys be safe. Okay.
+
+Stuart Carlton 38:39
+Yep, you too. Thank you.
+
+Transcribed by https://otter.ai
