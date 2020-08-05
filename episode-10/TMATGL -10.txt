@@ -1,0 +1,184 @@
+Stuart Carlton 0:00
+Teach me about the Great Lakes. Teach me about the Great Lakes. JOHN. Welcome back to teach me about the Great Lakes and exactly monthly podcast in which I, a Great Lakes novice get people who are smarter and harder working than I am to teach me all about the Great Lakes. My name is Stuart Carlton and I work with Illinois, Indiana secret and I'm joined as always by hope charters, our communication coordinator. Hope, how's it going?
+
+Hope Charters 0:24
+I'm great. How are you?
+
+Stuart Carlton 0:25
+I am also great, thanks for asking, actually, I'm really excited this month because one of my favorite things we do is these buoys that we have we have two yellow buoys that are out on the Great Lakes, all the time collecting data well, figuratively all the time, not really all the time, much of the time out there collecting data and sending it back and it's one of the most fun and useful things we do and I have like a Twitter account and everything. And so this month we're bringing what is going to be a two part episode on the buoys and I'm really excited about it. So I'm good. How about you
+
+Hope Charters 0:59
+guys? We get people email all the time, so
+
+Stuart Carlton 1:05
+many ways. It's like the most popular and impactful thing we do. And so I'm super fired up about it. And technically,
+
+Hope Charters 1:12
+just you just have for me is that we partner with? Yep.
+
+Stuart Carlton 1:18
+Yeah. So we got the two boys, and then we got the partner bullies. That's a total of four bullies. But they're more boys and just those four bullies, which brings us to today's guests. We're going to talk with Kelly Paige who is the CEO of the Great Lakes Observing System org loss as we know it, and I'm really excited to talk to Kelly so let's just go ahead and bring her on. Right after the interstitial music. This pandemic last much longer. We're gonna have a lot more songs recorded. Kelli Paige, welcome to teach me about the Great Lakes. How are you today?
+
+Kelli Paige 2:00
+Great, thank you for having me
+
+Stuart Carlton 2:02
+really excited to hear about what you're doing with a gloss and and what it is. Well, let's just start with that what is gloss? I know after reading that it's the Great Lakes Observing System. But what does that mean?
+
+Kelli Paige 2:13
+Yeah, so gloss we're actually a 501 c three nonprofit organization. And our mission is to provide end to end data services that support science, policy management and industry in the Great Lakes. So we support a variety of different projects around the region, doing data collection, data management and sharing that data making it widely publicly available.
+
+Stuart Carlton 2:41
+Interesting. So when you say data, like what kind of data are people collecting, or what they do collect?
+
+Kelli Paige 2:47
+Well, it's a lot of different kinds of data so mostly about the conditions of the lakes themselves, like the temperature waves, how fast the water is moving, what direction it's moving. Meaning, temperature at different depths, and information about things living in the water like algae or fish. So it's really a wide variety of information, anything that tells us about the conditions in the lakes. And so what was that? Sorry?
+
+Hope Charters 3:19
+Sorry, who uses the data?
+
+Kelli Paige 3:23
+Um, a lot of different people. So, obviously, you can expect that researchers and scientists would be interested in the information to learn more about you know, changes that are happening little lakes over time. We have a lot of people like recreational boaters or drinking water utilities that get their water from the lakes that use the information you know, to make decisions on a daily basis about whether or not it's safe to go out in the water or whether it's safe to use the water and drink it.
+
+Hope Charters 4:00
+And so the not like, by the shores, right? So with swimmers be able to use this data to.
+
+Kelli Paige 4:07
+Absolutely. So we have like beach managers who, for instance might use the information to decide whether or not the conditions are so hazardous that they would have to shut down a beach. But, you know, every day, you know, members of the public who are you know, just going out to enjoy a day at the beach can also look at the information and see, oh, you know, the waves are really high today doesn't it doesn't look like a safe day to be out swimming in that kind of thing. So yeah, people who serve people who swim kayakers, you know, really, any, any member of the general public can use this information.
+
+Stuart Carlton 4:52
+So what I hear is like you have all this cool data that you're collecting through buoys and other means I want to talk about the means in a bit, but I actually want to go a little farther back if we can. So like, how did this start was this I don't know how long you've been with gloss but but you know, there's all this info with digital just start to like bring it all together, was there a need or digital start collecting this data and then expand? how did how did that go? Exactly?
+
+Kelli Paige 5:13
+Sure. So actually, we're one of 11 regions have a federal program that's managed through NOAA, the National Oceanic and Atmospheric Administration. And the federal program is called the ice program or the integrated ocean Observing System. And essentially around 2007, eight time period, the federal government was kind of taking stock of all the different federal agencies that were doing monitoring in the oceans, coasts and Great Lakes. There's a lot of federal agencies that have jurisdiction and responsibility for you know, doing monitoring NASA You know, has satellite imagery that they're collecting USGS, tracks fisheries and has string gauges. NOAA obviously does a lot of monitoring in the oceans, EPA, obviously has a lot of water quality and regulatory needs for their data collection. And the notion was shouldn't all these federal agencies be coordinated and the different monitoring that they're doing, to make sure that, you know, they're sort of avoiding duplication, but also leveraging their activities, the best way possible, and sharing the data that they're collecting with one another. So that we can, you know, get the best use out of it. And so our role as a regional node of this federal program is to take all that partnership in coordination that's happening at the federal level. And leverage all the activities that are happening in our region. So if you think about it, you know, we have a ton of universities in the Great Lakes region, state and local government agencies that are also doing their own monitoring all of our Canadian counterparts, you know, so provincial government agencies and Canadian universities as well, you know, there's so many different groups out there that are collecting data for, you know, any given purpose. And, you know, our role is to really help make sure that all those efforts can be coordinated and that it's easy for everybody to access and share that data.
+
+Stuart Carlton 7:42
+Oh, I see. So so all the data that you have are not necessarily things you're collect, you don't own like 100 buoys, and have armies of technicians out there. So you're more in like a gathering role and sort of quality assurance. Is that the kind of thing to
+
+Kelli Paige 7:57
+Yeah, yeah, we were actually started FIDE through the federal government to manage the data. So we have to adhere to certain quality control standards and making sure that all the data is available through open source protocols and that kind of thing. And essentially the certification that we got as a data assembly center through the federal government. And so this makes it easy for other scientists or researchers, other government agencies to access the data, you know, use it for their, you know, research or modeling purposes. And it also makes it easier for, like technology companies to make this data into more user friendly applications. So things that you know, those of us who aren't scientists can easily understand and interpret to help make decisions about whether or not we can use the lakes. Oh, I see. So like
+
+Stuart Carlton 8:59
+Yeah, so you kind of have different audiences you're serving them right Some are like the scientists using it but there is some public facing stuff as well. And that's kind of where you're saying that the voters may do it or something like that. Yeah. Hmm. So So where do you get this so we know you got buoys we know you have at least four buoys but you actually have many more than that, that you help to track. What other types of data collection sources are there out there? Is it is it mainly through buoys? Or is it you know, more people going out and doing it manually? What kind of what kind of stuff do you all pull in?
+
+Kelli Paige 9:28
+Yeah, there's so a lot of the real time information does come from buoys, but there are a lot of other types of, you know, observing equipment that are out there. So, radars sonars, I mentioned satellite observations, there's underwater gliders and other autonomous vehicles. Yeah. We support projects for where there's fish tagging, and tracking. I tagged fish throughout the Great Lakes region. So there are a lot of different ways to collect data. And so, you know, part of our job is to help make sure that people who are collecting data can share it and easy way.
+
+Stuart Carlton 10:16
+Like, I'm a potion I'm interested in data, right? both as a professional scientist, well, paper pushing scientist and but maybe also as a as someone who likes to think that they're the type of person that does outdoor recreation. What are some cool things that have been done with class data? I think that, you know, might be fun to hear about.
+
+Kelli Paige 10:35
+One of the things I think is really interesting is how local communities are using data from gloss supported researchers and buoys. So they're cities like Milwaukee, Wisconsin, or Cleveland, Ohio, that are actively, you know, on a day to day basis using the data that's coming from these buoys to make decisions about How to Treat water so that it can be used for drinking water purposes, or whether people can, you know, go out and recreate in the lake without concern. And, you know, when we think about the type of monitoring that's being done through the federal agencies, they're not always necessarily able to get, you know, great coverage for local communities. And so, where gloss can kind of help. bridge the gap is to provide that local community data for folks and support those efforts for the information that, you know, community is going to use directly to make decisions about how to support their constituents.
+
+Hope Charters 11:39
+So if people want to get a hold of the data on gloss, how do they?
+
+Kelli Paige 11:46
+Yeah, so the main way is to go to our website. So you can go to glossy.org and it'll point you to a variety of different applications and websites, the primary website Though I would suggest people go to as our data portal so that it can be a bit of a fire hose of information, all the data that we're able to aggregate and provide access to the website there's portal.gloss.us but this kind of that the portal gives you I think the best sense of all the different kinds of data that are out there models, satellite imagery, you know, real time stations along the shoreline or buoys that are out in the water
+
+Stuart Carlton 12:34
+and you can all this stuff I'm there now.
+
+Kelli Paige 12:38
+Yeah, and so, um, so if you can see like all those little blue dots that are there are the shoreline stations. Right now there aren't a lot of buoys in the water because we have to take buoys out, you know, in anticipation of the winter and possible you know, ice issues that That will happen when the lakes freeze over. And so folks usually don't redeploy the boonies until the spring. So usually April May time period is probably as early as most people will be getting the buoys out. I'm not sure actually this year, if folks are going to be able to get their buoys out that early, get them on there long discussions about
+
+Stuart Carlton 13:19
+that now, and it's it's a pandemic, I don't know when we're, I don't know what the current plan is other than sometime.
+
+Kelli Paige 13:27
+But you can also you know, there's an, if you're on the website, now, you'll probably see like a green bounding box. And that's an indication you can if you're on the map view, I should
+
+Stuart Carlton 13:40
+say they have a map view and a catalog view. And we'll put a link to this in the show notes, which are available at www dot teach me about the Great Lakes calm. Or if you're listening to this on like your phone, just look down at your podcast player, and you can click on the link from there.
+
+Kelli Paige 13:54
+Yeah. And so you can if you're on the map view, you can kind of see a sense of what types of data are out there and then do a more in depth search on the left side, and the legend area for, you know, other data that might be of interest to you. And so a lot of times people like to look at data in a particular geographic area where they're from, or maybe they have a particular type of data that they're interested in, like temperature waves. And those are good ways to search through the holdings of data that we have and find what you're you're looking for.
+
+Stuart Carlton 14:33
+Oh, yeah, for example, if you search for Illinois, you can then go straight to Illinois, Indiana. So one of the things we have out there, well, that's great. Well, I do encourage everybody to check this out. It seems like a really neat place to dig around and find some different stuff that is cool, but I'm gonna close it now because otherwise I will spend the rest of this interview.
+
+Hope Charters 14:52
+Earlier you were saying buoys provide things like wind and wave data and temperatures and stuff. But if you look at the bigger picture, like what have we learned about the Great Lakes from actually being able to aggregate all this data and look it all together rather than individually?
+
+Kelli Paige 15:09
+Yeah, that's a great question. Um, you know, I actually think that I'm not sure that I have a good direct answer to that. But I, what's been really interesting to me to see over time since I've been at gloss is how greater access to all of these different diverse pieces of information have actually created a bigger demand from, you know, just a variety of different stakeholders for being able to access this information easier, and even has, like, created more complex questions I think that people are looking to answer so it's almost more that this has revealed There's so much more potential out there. And people are, I think, a little bit more interested in figuring out how to realize the full potential of that. So here's an example that I'll give. When I first started at gloss, which was around 2009, we were doing some focus groups, recreational boaters in upstate New York and we were asking them, you know, how do you like to get information about whether or not you're going to take a trip boating that weekend? Where do you look for information, that kind of thing, like learning more about what their their information needs were? And at the time, you know, they indicated that they mainly visited, you know, websites and looked up things like what the weather forecast is going to be in that kind of stuff from a desktop computer. They really like to have a forecast, you know, maybe three or four days out in advance. And ultimately, they would make a decision maybe like on a Thursday or Friday about whether or not they were going to go out and take the boat out for the weekend, right. Um, and it wasn't, but just like a few years later, that a lot of those assumptions about how people were going to consume a news data change. So, you know, at the time, they didn't really feel like using or having a mobile friendly website or mobile app was going to necessarily be super useful to them. Because cell service wasn't so great. These are people in upstate New York, so they were near the Canadian border, and there were issues with cell coverage, you know, near the border and that kind of thing. But then just a few years later, you know, everyone is on their phone. We did a survey recently and found out that around 78% of our website, visitors self identify as recreational boaters and they overwhelmingly access the data on our mobile friendly website gl buoys.org and they really prefer more real time information not so much the forecast that way before so I think that seeing how people's preferences for how they access information change over time has been like one of the most like revealing and inspiring things to me working at gloss because it really impacts imitates I think this shift like culturally that we have and one on demand information and making decisions like in a more on demand way.
+
+Hope Charters 18:49
+Yeah, I was gonna magine boater like trying to plan three days out now because if data is available that they would just get on their phone the morning Haven't be like,
+
+Kelli Paige 19:03
+exactly,
+
+Stuart Carlton 19:03
+yeah, doing that it never occurred to me that you're right. What we require now for these sorts of instantaneous decisions is just we need data, we need information. And so the critical role that you play is gathering and combining all that data into something actionable. And that's, that's really cool. And and you're right, the way it mirrors that transition in society, too, you know, and you can even get dinosaur sociological, if you want it to, which I do, and talk about, you know, kids these days or whatever. But that's so, so but staying on top of technology is really important, I think. So I know you have this called the smarter Great Lakes initiative. Can you tell us a little bit about that and like how you're adapting as more sensors become available, and you know, just as the world changes?
+
+Kelli Paige 19:49
+Yeah. So I'm kind of responding to that change and trends that we've seen over time, and how people like to consume information. Also, these You know, more wicked problems and wicked challenges where people are just demanding, like more better use of all that big data that's out there. You sort of said to ourselves as an organization like, geez, you know, shouldn't we be taking better advantage of all these technology advances that are out there to help, you know, improve the way that we learn about the lakes and make decisions about the lakes. And so that's kind of where the inspiration for the smart Great Lakes initiative came from. And so part of, you know, in addition to, you know, trying to kind of use all these information technology advances to our advantage and make better information products, we're also really interested in incentivizing people to use more innovative monitoring technologies. So if you think about, you know, the way that like temperature can be crowd sourced from people's, you know, home weather stations. One app that we that we use a lot as an example is ways and how you can get, you know, shortcut travel directions based on kind of real time crowd sourced information about, you know, where their traffic jams and that kind of thing. You know, couldn't we be taking advantage of some of these other cheaper, easier to use, you know, more commercial off the shelf, monitoring devices, and using that to like, really enrich the information that's available to us. Also, how do we generally transmit the data and make it available? You know, over a website, there's a lot of sort of manual you know, just older processes for doing that. How can we make Be update some of these devices, so that they're transmitting the data directly to the cloud, or even maybe doing some of the data processing on the device itself. So that you don't have to, you know, download it, have a researcher, you know, go through all the information and post process it and then make it available to the public and aware some of these advances in machine learning or artificial intelligence that we can take advantage of to get us that data faster and more on demand, you know, in the way that people are needing it to help make decisions. So those are some of the things that we're hoping to or some of the projects that we're hoping to fund in the future and ideas that we're hoping to incentivize moving forward to help you know, kind of bring the whole region to this smarter. smarter status.
+
+Hope Charters 22:57
+Yeah, really, especially because this month is Citizen Science month. Yeah. So I love the idea of bringing people from the community together to give you more data. I don't think I would be worried about is that, would you then have to worry about quality? Or would you have certain devices that you would have approved that people could use from their homes?
+
+Kelli Paige 23:18
+Yeah, I think, you know, there is in terms of, I guess, the QA side of things, the quality assurance side of things, making sure that people are using the devices properly and you know, have, you know, maintain them or set them up in a way that's, you know, providing them with the best data. But we have, you know, again, like the more prolific the number of devices are, like, the easier it is to sort of on the quality control side of things like weed out the data that's maybe you know, not reporting the best quality information and that kind of thing. So again, there's sort of like trade offs everywhere. But if we're, you know, making the best effort to use all the potential technology advances, literally available to us. And you know, there are ways to overcome some obstacles.
+
+Stuart Carlton 24:06
+And what's really exciting is what we don't even know. I think what kind of questions that can enable people to ask. Right? And yeah, so that's exciting. Well, Kelly, we like to wrap up with a couple of questions that are the real reason that I brought you on here. All of this glossary is interesting it is, and I encourage people to go check it out. But here's the most important question of the day. If you could choose to have a great doughnut for breakfast or a great sandwich for lunch, either those two but only one, which would you choose?
+
+Kelli Paige 24:31
+Well, I absolutely love donuts, but then it's not love me. I'm not the type of person that can eat a lot of sweets. A great sandwich.
+
+Stuart Carlton 24:42
+And then the follow up. This is now we're getting we're honing in on what information I need. Yeah, we're in your hometown. Can I get a really great sandwich for lunch?
+
+Kelli Paige 24:52
+Oh, Zingerman's, Ann Arbor, Michigan Zingerman's is famous they use the fanciest ingredients which makes them For the most delicious if not kind of expensive
+
+Stuart Carlton 25:05
+Why don't fancy boy though so this is okay. But
+
+Hope Charters 25:11
+your pinky out since it's so fancy.
+
+Stuart Carlton 25:13
+I do I do know I drink I drink with my pinky out because I need like the counterbalance. I guess I'm very weak Zingerman's in Ann Arbor. All right. I will definitely check it out next time. I'm there. I need to go visit my friends at Michigan secret anyway. And we'd like to wrap up with like a little bit of life advice. You know, it could be serious. It could be silly. It could be big. It could be small. But is there like one piece of life advice in your travels that you have that you'd like to share with our listeners?
+
+Kelli Paige 25:41
+Sure. Yeah, I think my favorite. Same comes from RuPaul. The drag performer and that is we're all born naked and the rest is drag. And the reason why I absolutely love that same love it. Cuz it kind of reminds us that fundamentally we're all equal, we're all the same, we're all born naked, right? And some of these, you know, things like what we wear, what car we drive, even, to some extent, like what career path we choose, you know, are really just constructs of this identity that we're trying to form for ourselves. And if we get too focused on trying to, you know, curate or cultivate that identity, we start to lose, you know, our ability to connect with other people. And, and I guess, to try to tie it back to the Great Lakes. I sort of feel like the Great Lakes is a natural resource that we all share as humans. You know, we all have an interest in you know, trying to remember that like common connection that we share, and trying to protect and conserve the Great Lakes and the interests of like having that shared human connection. So to me, it's all about, you know, maintaining authenticity, you know, remembering, like, at the end of the day, I was born naked, and they're all the rest of this distract, like stay true to yourself. Stay true to your authentic instincts and that help will help carry you through the challenge that you face in life.
+
+Hope Charters 27:28
+Can we get a round of applause in here?
+
+Stuart Carlton 27:32
+No, I'll have to install that later. I can get a car crash. That's however, that deserves much more than a car crash. No, that's really great. I can't think of any better any better way to put it than that. And I think that's a really inspiring when you phrase it like that and think. Yeah,
+
+Kelli Paige 27:55
+that's true. Report. All the credit goes to Paul for that one.
+
+Stuart Carlton 27:57
+Well, most of the credit So I'm going to encourage everybody to go to gloss.us to check out your website and then also to the portal claws taught us is there somewhere else that you want to point people to? Is there a social media thing? Or just go to the website and go from there?
+
+Kelli Paige 28:15
+Yeah, just keep following to yellow booze on Twitter. They're super entertaining, and they love them. And and yeah, thanks for having me again.
+
+Stuart Carlton 28:26
+Yeah, Kelly Paige, CEO of the Great Lakes Observing System. Thank you so much for teaching us about the Great Lakes. Man, I love talking about the buoys hope and all the data and things like that. It's really exciting just to hear all the stuff that people are doing and can do with these really valuable resources.
+
+Hope Charters 28:51
+Yeah, and hearing what people are going to be able to do possibly, I know,
+
+Stuart Carlton 28:54
+I know. Sometimes I get like creeped out about all the sensors that are everywhere because you know thoroughly. Yeah, but but it also is gonna I mean, it's just to see what its gonna look like in 20 years, you know, gloss 2000, or whatever they call it, probably
+
+Hope Charters 29:10
+hear her talk about the difference between just a few years and then technology shift and societal. Really, that was really cool. I think that was my favorite part of talking to them.
+
+Stuart Carlton 29:19
+I agree and how its reflected in ways that I don't necessarily think about. But it's, yeah, that sort of connection between like, when new technology new data new information becomes available, it becomes like this sort of feedback loop and changes the way we think about things and what we think about and how we think and that when new data is available, we feel like we should automatically have access to it, which is really nice that they're giving us access to Yeah, I can't imagine I don't envy them having to take all this stuff and try to make sense of it make it available, but it's a really valuable resource. And so I do encourage everybody to check out all the info in the show notes. And I also encourage everybody to go and follow the two yellow buoys like Kelly said on Twitter at two yellow buoys you can follow the show at We teach Great Lakes. And where can they find out more about Illinois, Indiana secret,
+
+Unknown 30:04
+you can follow us on Twitter, Instagram and Facebook I Li n secret. And we mentioned earlier that it's citizen science month. So if you want to go check out any projects that you can do in your neighborhood, just type in community science or citizen science and your favorite search drive. And so
+
+Stuart Carlton 30:27
+when this comes out, maybe what month exactly is citizen science month Oh, also, if this happens to be many when you're listening, I encourage you to still do some community science. It's still valuable and important work. And I encourage you also to check out our editorial calendar if you're a co host of the show. Anyway, with that, everybody, thanks for listening. We'll see you actually back either tomorrow or next week because this is a two part episode related to our buoys, as we encourage you to check Part Two when that is released. Which will either be tomorrow or next week depending on things that I'm not going to decide until May because I can't make decisions during citizen science month. But with that, I encourage you to keep grating those links. Don't you remember with a computer voice
+
+Transcribed by https://otter.ai
